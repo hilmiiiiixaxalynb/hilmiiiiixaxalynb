@@ -15,7 +15,7 @@
 ---
 
 🌱 I’m currently diving deep into:   
-- 💾 frontend & Web Development  
+- 💾 Data Scraping & data analysis
 
 🚀 Long term goals:  
 - 🎯 Build something impactful (pengen jadi presiden)  
