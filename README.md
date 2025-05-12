@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hilmi</h1>
-<h3 align="center">Future Software Engineer & Tech Wizard 🧠💻</h3>
+<h3 align="center">Software Engineer & Tech Wizard 🧠💻</h3>
 
 ---
 
