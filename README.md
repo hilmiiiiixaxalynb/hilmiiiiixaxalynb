@@ -21,7 +21,7 @@
 - 🎯 Build something impactful (pengen jadi presiden)  
 - 🌍 Work remotely from anywhere  
 - 🛡️ Explore Cybersecurity & Ethical Hacking  
-- 💻 Learn new programming languages like C family etc.
+- 💻 Usually I use python and java
 
 ---
 
