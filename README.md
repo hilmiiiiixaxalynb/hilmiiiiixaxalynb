@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hilmi</h1>
-<h3 align="center">Aspiring Data Analyst & Software Engineer 🐱‍💻📊📈</h3>
+<h3 align="center">in love to data science 🐱‍💻📊📈</h3>
 
 ---
 
